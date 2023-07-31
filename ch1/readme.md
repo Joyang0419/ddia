@@ -21,7 +21,7 @@
     - 網路傳輸
 
 ## 說明
-![image](Central Topic.png)
+![image](topic.png)
 ## 可靠性（Reliability）
 - 回應出使用者期望的功能 
 - 可以阻擋一些非預期的資訊
